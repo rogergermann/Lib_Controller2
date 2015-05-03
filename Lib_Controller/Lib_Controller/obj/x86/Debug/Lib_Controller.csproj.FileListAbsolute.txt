@@ -1,0 +1,24 @@
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\bin\Debug\Lib_Controller.exe
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\bin\Debug\Lib_Controller.pdb
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\obj\x86\Debug\Lib_Controller.Form1.resources
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\obj\x86\Debug\Lib_Controller.Properties.Resources.resources
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\obj\x86\Debug\Lib_Controller.csproj.GenerateResource.Cache
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\obj\x86\Debug\Lib_Controller.exe
+C:\Users\roger.germann\AppData\Local\Temporary Projects\Lib_Controller\obj\x86\Debug\Lib_Controller.pdb
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.exe
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.Form1.resources
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.Properties.Resources.resources
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.csproj.GenerateResource.Cache
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\bin\Debug\Lib_Controller.exe
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\bin\Debug\Lib_Controller.pdb
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.pdb
+H:\Dokumente\Visual Studio 2010\Projects\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.csprojResolveAssemblyReference.cache
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.exe
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.pdb
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\bin\Debug\Lib_Controller.exe
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\bin\Debug\Lib_Controller.pdb
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.csprojResolveAssemblyReference.cache
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.Properties.Resources.resources
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.csproj.GenerateResource.Cache
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.MediumEditor.resources
+L:\02_Burren\Lib_Controller\29.04.15\Lib_Controller2\Lib_Controller\Lib_Controller\obj\x86\Debug\Lib_Controller.MainForm.resources
